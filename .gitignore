@@ -1,0 +1,6 @@
+# Ignore binaries.
+*.py[cod]
+__pycache__
+
+# Visual studio code
+.vscode
